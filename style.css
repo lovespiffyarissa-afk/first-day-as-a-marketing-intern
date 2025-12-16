@@ -1,0 +1,32 @@
+body {
+	color: hotpink;
+	color: hotpink;
+
+	background-color: gray;
+
+	font-size: 18px;
+}
+    
+a {
+	color: purple;
+}
+
+h1 {
+	font-family: Georgia;
+	border-width: 6px;
+	border-style: solid;
+	border-radius: 6px;
+	padding: 1em;
+	text-align: center;
+	margin: 1em;
+}
+
+p{
+	font-family: Tahoma;
+	font-size: 1.0em;
+}
+
+div#container {
+	margin: 0 auto;
+	max-width: 700px;
+}
